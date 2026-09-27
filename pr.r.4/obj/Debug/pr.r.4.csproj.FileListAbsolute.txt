@@ -1,0 +1,7 @@
+D:\simss\projectssss\pr.r.4\bin\Debug\pr.r.4.exe.config
+D:\simss\projectssss\pr.r.4\bin\Debug\pr.r.4.exe
+D:\simss\projectssss\pr.r.4\bin\Debug\pr.r.4.pdb
+D:\simss\projectssss\pr.r.4\obj\Debug\pr.r.4.csproj.AssemblyReference.cache
+D:\simss\projectssss\pr.r.4\obj\Debug\pr.r.4.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\pr.r.4\obj\Debug\pr.r.4.exe
+D:\simss\projectssss\pr.r.4\obj\Debug\pr.r.4.pdb
